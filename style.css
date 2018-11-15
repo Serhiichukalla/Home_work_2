@@ -1,0 +1,71 @@
+body{
+	background-color: lightpink;
+}
+
+
+h1{
+	font-family: 'Noto Serif', serif;
+	font-size: 36px;
+
+}
+
+hr{
+	width: 800px;
+	height: 2px;
+	background: black;
+}
+
+#photo_1{
+	width: 350px;
+	height: 350px;
+	border: 2px solid black;
+	padding: 20px;
+	margin-bottom: 20px;
+	}
+
+h2{
+	font-family: 'Marck Script', cursive;
+	font-size: 26px;
+}
+
+ul{
+	text-align: left;
+	font-size: 20px;
+	
+
+}
+
+li{
+	margin-top: 7px;
+}
+
+p{
+	width: 350px;
+	font-size: 20px;
+	margin-bottom: 25px;
+}
+
+#link_1{
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	border: 1px solid black;
+	border-radius: 2px;
+	background-color: red;
+	color: white;
+	text-decoration: none;
+}
+
+div{
+	width: 400px;
+	font-size: 20px;
+	text-align: justify;
+	margin-bottom: 25px;
+}
+
+#why_frontend {
+ 	width: 400px;
+}
+
+
